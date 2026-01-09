@@ -1,4 +1,4 @@
-NOVAH IMG GEN
+NOVAH IMG GEN ( https://shahzaibsmuzaffar.github.io/Novah-Pmgen/ )
 Next-Generation AI Image Synthesis
 Architected by Shahzaib Muzaffar (Novah)
 🌌 Overview
